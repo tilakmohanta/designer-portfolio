@@ -19,7 +19,7 @@ export default function CatalogSwiperSection() {
                     <div className="grid grid-cols-2 text-gray-500 gap-x-8">
                         <div>
                             <p>
-                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                             Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                             </p>
                         </div>
                         <div>

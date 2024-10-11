@@ -22,7 +22,7 @@ export default function CatalogSwiperSection() {
                     </div>
 
                     <p className="px-12 pb-4 ">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                     </p>
                     <div className="flex px-12 pt-4 gap-x-4 ">
                         {/* <Image src="/image/awards.png" width={100} height={80} alt="" className=" h-[100px]" />

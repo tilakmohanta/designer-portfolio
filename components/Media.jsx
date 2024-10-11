@@ -12,21 +12,21 @@ export default function CatalogSwiperSection() {
         <div className="py-8 lg:py-28">
             <div className="container grid pb-8 lg:grid-cols-2">
                 <div className="text-left ">
-                    <h1 className="py-4 text-4xl font-medium lg:text-6xl lg:py-0">A Sculptor’s journey.</h1>
+                    <h1 className="py-4 text-4xl font-medium lg:text-6xl lg:py-0">Media.</h1>
                 </div>
                 <div>
-                    <h2 className="pb-6 text-xl font-bold tracking-wider">The creativity of Indian artist Dr. Satya Ketan Mohany has given life to dead cells.</h2>
+                    {/* <h2 className="pb-6 text-xl font-bold tracking-wider">The creativity of Indian artist Dr. Satya Ketan Mohany has given life to dead cells.</h2> */}
                     <div className="grid grid-cols-2 text-gray-500 gap-x-8">
                         <div>
                             <p>
-                            The visionary man loves to roam around the sea shore and spend time with nature. That love for nature enabled him to see life in every object and that has given him the space to create his signature in the unique art form as a Sculptor.
+                             Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                             </p>
                         </div>
                         <div>
                             <p>
-                                The creativity of the Indian Artist has explored the potentiality of Drift wood, waste wood and scrap wood etc.
+                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                             </p>
-                            <a href="/sculptor" className="inline-flex items-center pt-4 text-lg font-bold text-black underline">Read More <TbArrowUpRight /> </a>
+                            <a href="#" className="inline-flex items-center pt-4 text-lg font-bold text-black underline">Read More <TbArrowUpRight /> </a>
                         </div>
                     </div>
                 </div>

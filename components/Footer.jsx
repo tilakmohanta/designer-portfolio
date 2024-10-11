@@ -5,7 +5,7 @@ export default function Footer() {
 
     return (
         <div className="bg-zinc-100">
-            <div className="container lg:grid lg:grid-cols-2 py-14">
+            {/* <div className="container lg:grid lg:grid-cols-2 py-14">
                 <div className="grid gap-4 pb-4 text-left lg:pb-0 lg:grid-cols-3">
                     <div>
                         <h2 className="pb-4 text-xl font-semibold">COMPANY</h2>
@@ -44,13 +44,13 @@ export default function Footer() {
                         By subscribing to our newsletter, you agree to receive emails from us. Your personal data will be stored and processed in accordance with our Privacy Policy and you can unsubscribe at any time.
                     </p>
                 </div>
-            </div>
+            </div> */}
 
             {/* Copy Right */}
             <div className="py-10 bg-zinc-200">
                 <div className="container text-center text-gray-500 lg:justify-between lg:flex">
                     <div className="pb-4 lg:pb-0">
-                        <p>&copy;2023 DIGIMAX.All rights reserved </p>
+                        <p>&copy;2024 Odicode Digital Solutions Pvt Ltd. All rights reserved </p>
                     </div>
                     <div className="">
                         <Link className="p-4 hover:underline" href="/privacy">Privacy</Link>
